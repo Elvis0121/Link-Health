@@ -16,7 +16,7 @@ df = pd.DataFrame(benefits_data['benefits'])
 app = Flask(__name__)
 
 # Set your OpenAI API key here
-openai.api_key = 'org-5IJMMfySC2KRoZbOjyKg0Vad'
+openai.api_key = ['REDACTED']
 
 # Precompute the TF-IDF matrix for the benefits descriptions
 vectorizer = TfidfVectorizer()
