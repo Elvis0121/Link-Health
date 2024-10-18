@@ -1,0 +1,17 @@
+{
+    "benefits": [
+      {
+        "name": "Social Security",
+        "description": "Provides financial support for retirees, disabled individuals, and survivors of deceased workers.",
+        "eligibility": "Individuals aged 65 or older or with disabilities.",
+        "application_process": "Apply online via the Social Security website or in person at a local office."
+      },
+      {
+        "name": "Medicare",
+        "description": "Health insurance for people aged 65 and older or younger people with certain disabilities.",
+        "eligibility": "Available for those aged 65 or older or with qualifying disabilities.",
+        "application_process": "Apply through the Medicare website or during open enrollment periods."
+      }
+    ]
+  }
+  
